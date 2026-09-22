@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Название проекта: Blog, цель (Проект 1 курса Rails 8.1).
 
-Things you may want to cover:
+* Использованные флаги rails new 
+  * --database=sqlite3 - создание проекта с базой данных sqlite.
+  * --css=tailwind - использование css библиотеки tailwind.
+  * --javascript=importmap - указание явного использования Import Map.
+  * --skip-test - сключить стандартный тестовый фреймворк Minitest.
 
-* Ruby version
+* Команды запуска (bin/setup, bin/dev).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Стек: Ruby, Rails, БД, CSS, JS.
